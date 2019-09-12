@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Permission</string>
     <string name="permission">Permission</string>
+    <string name="home">Home</string>
+    <string name="app_list">App List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
