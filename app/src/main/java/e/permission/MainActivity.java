@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
 
 
     }
-    HomeFragment homeFragment = new HomeFragment();
+    HomeFragment  homeFragment = new HomeFragment();
     AllAppsFragment allAppsFragment = new AllAppsFragment();
     PermissionFragment permissionFragment = new PermissionFragment();
     SpecialAccessFragment specialAccessFragment = new SpecialAccessFragment();
